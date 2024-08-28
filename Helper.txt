@@ -3,3 +3,6 @@
 
 folderNamesExpanded
 folderNames
+
+8000 open
+2750 close
