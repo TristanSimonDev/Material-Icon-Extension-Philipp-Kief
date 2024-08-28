@@ -1,0 +1,5 @@
+"Bot1": "folder-robot",
+
+
+folderNamesExpanded
+folderNames
